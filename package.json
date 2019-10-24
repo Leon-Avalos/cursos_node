@@ -1,0 +1,19 @@
+{
+  "name": "cursos",
+  "version": "1.0.0",
+  "description": "API para la administracion de matricula de cursos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "API"
+  ],
+  "author": "Leon-Avalos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^4.1.0"
+  }
+}
